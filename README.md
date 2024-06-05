@@ -1,7 +1,7 @@
 # 8553_solution
 A solution for https://www.geopeitus.ee/aare/8553 Wherigo cache.
 
-Execute by running: _node 8663_solution.js_
+Execute by running: _node 8553_solution.js_
 
 How to install Node.js:
 
